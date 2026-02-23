@@ -28,6 +28,10 @@ Check out my terraform templates to get started!
  <img alt="Digital Ocean Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg">
 </picture>
 
+<picture>
+ <img alt="Microsoft Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
+</picture>
+
 --- 
 
 Lunar Drift LLC
