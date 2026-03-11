@@ -6,16 +6,10 @@ Check out my terraform templates to get started!
 
 ## Lunar Drift Services
 ### Design-Build-Maintain
-- Serverless Functions
 - Custom Full Stack OpenTofu Modules 
 ### Managed Services
 - Managed Content Distribution Networks
 - Managed Records and Registration for Domain Names
-- Managed Email Services
-- Microsoft 365 Identity Management.
-### Data Analysis
-- Spatial Data Processing
-- Excel/VBA/Access
 
 ## Providers
 <picture>
