@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm currently working on a system for managing multiple static web servers with content created in Markdown.
-
-Check out my terraform templates to get started!
+Currently developing a static website SaaS solution for small businesses with little to no online presence... Lunar Drift Hypermedia Studio. 
 
 ## Lunar Drift Services
 ### Design-Build-Maintain
