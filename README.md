@@ -11,17 +11,17 @@ Currently developing a static website SaaS solution for small businesses with li
 
 ## Providers
 <picture>
- <img alt="AWS Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+ <img alt="AWS" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </picture>
 <picture>
- <img alt="GitHub Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+ <img alt="GitHub" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </picture>
 <picture>
- <img alt="Digital Ocean Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg">
+ <img alt="Digital Ocean" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg">
 </picture>
 
 <picture>
- <img alt="Microsoft Icon" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
+ <img alt="Microsoft" height="60" style="aspect-ration: auto;" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
 </picture>
 
 --- 
